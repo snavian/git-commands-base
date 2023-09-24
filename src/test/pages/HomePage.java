@@ -7,5 +7,6 @@ public class HomePage {
     // home page search bar
 
     // contact me page link
+    // u r right
 
 }
